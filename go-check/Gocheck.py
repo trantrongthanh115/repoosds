@@ -10,7 +10,7 @@ import time
 import pandas as pd
 
 # Đường dẫn đến file thực thi geckodriver
-gecko_path = r"D:/Gocheck/geckodriver.exe"
+gecko_path = r"C:/Users/Administrator/Downloads/geckodriver.exe"
 
 # Khởi tởi đối tượng dịch vụ với đường geckodriver
 ser = Service(gecko_path)
